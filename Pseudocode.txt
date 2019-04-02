@@ -1,0 +1,56 @@
+Add Job
+if user is not authenticated
+    return error
+
+if input is invalid
+    return error
+
+if insert to database is failed
+    return error
+
+return response
+
+
+Add Bid
+if user is not authenticated
+    return error
+
+if input is invalid
+    return error
+
+if job is unavailable
+    return error
+
+if insert to database is failed
+    return error
+
+return response
+
+
+Sort Job for Transporter
+if user is not authenticated
+    return error
+
+if input is invalid
+    return error
+
+if retrieve from database is failed
+    return error
+
+return response
+
+
+Sort Bid
+if user is not authenticated
+    return error
+
+if input is invalid
+    return error
+
+if job is invalid
+    return error
+
+if retrieved bid from database is failed
+    return error
+
+return response
