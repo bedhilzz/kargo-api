@@ -1,0 +1,21 @@
+1. Create model
+2. Migrate model to database
+3. Implement Testing
+5. Implement Routing
+4. Implement Add Job
+    - Implement input validation
+    - Implement query to database
+    - Implement response
+6. Implement Add Bid
+    - Implement input validation
+    - Implement query to database
+    - Implement response
+7. Implement Sort Job
+    - Implement input validation
+    - Implement query to database
+    - Implement response
+8. Implement Sort Bid
+    - Implement input validation
+    - Implement query to database
+    - Implement response
+9. Running Testing
